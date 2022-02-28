@@ -19,7 +19,6 @@ class StoryPage extends StatefulWidget {
 }
 
 class _StoryPageState extends State<StoryPage> {
-  int _storyNumber = 0;
   @override
   Widget build(BuildContext context) {
     return Scaffold(
